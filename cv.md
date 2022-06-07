@@ -13,6 +13,9 @@
 **Email:** mrrubypop@gmail.com
 
 
+**Discord:** Серго#4964
+
+
 [HeadHunter](https://hh.kz/resume/265410e4ff03d1b1590039ed1f65364a723341)
 
 
