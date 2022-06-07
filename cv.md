@@ -48,4 +48,4 @@ function multiply(a, b){
 ******
 ### Projects
 
-**CV markdown:** https://polarworm.github.io/rsschool-cv/cv
+[CV markdown:](https://polarworm.github.io/rsschool-cv/cv)
