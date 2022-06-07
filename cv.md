@@ -30,3 +30,11 @@ I was looking for where to start studying in programming and went to work in the
 
 
 Now that I have found what exactly I like, I decided to study front-end development and now I am in RS school
+
+
+### Code example
+
+
+``` function multiply(a, b){
+  return a * b
+} ```
