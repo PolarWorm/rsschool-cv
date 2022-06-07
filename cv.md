@@ -35,6 +35,8 @@ Now that I have found what exactly I like, I decided to study front-end developm
 ### Code example
 
 
-``` function multiply(a, b){
+``` 
+function multiply(a, b){
   return a * b
-} ```
+} 
+```
