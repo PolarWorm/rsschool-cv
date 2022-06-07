@@ -1,4 +1,4 @@
-![profile image](profile.jpg)
+![profile image](/profile.jpg)
 
 
 # Sergey Obukhov
