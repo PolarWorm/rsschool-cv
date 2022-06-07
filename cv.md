@@ -1,3 +1,6 @@
+![profile image](/rsschool-cv/profile.jpg)
+
+
 # Sergey Obukhov
 ### RS School student
 ******
