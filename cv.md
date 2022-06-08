@@ -1,4 +1,4 @@
-![profile image](https://github.com/PolarWorm/rsschool-cv/blob/gh-pages/profile.jpg)
+![profile image](../profile.jpg)
 
 
 # Sergey Obukhov
